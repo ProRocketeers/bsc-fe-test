@@ -1,0 +1,21 @@
+{
+  "appbar.app.name": "ProRocketeers' Notes",
+  "appbar.note.list": "List of notes",
+  "appbar.note.new": "Create note",
+  "common.went.wrong": "Something went wrong...",
+  "note.creator.created": "Note created",
+  "note.creator.error": "Error saving note",
+  "note.creator.label.note": "Note",
+  "note.creator.new": "Create new note",
+  "note.creator.save": "Save",
+  "note.detail.edit": "Edit",
+  "note.editor.error": "Error updating note",
+  "note.editor.header": "Note #{noteId}",
+  "note.editor.label.note": "Note",
+  "note.editor.save": "Save",
+  "note.editor.updated": "Note updated",
+  "note.list.delete": "Delete",
+  "note.list.delete.error": "Unable to delete note #{nodeId}",
+  "note.list.edit": "Edit",
+  "note.list.note": "Note"
+}

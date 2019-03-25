@@ -1,0 +1,21 @@
+{
+  "appbar.app.name": "Poznámky ProRocketeers",
+  "appbar.note.list": "Přehled poznámek",
+  "appbar.note.new": "Nová poznámka",
+  "common.went.wrong": "Něco se pokazilo...",
+  "note.creator.created": "Poznámka vytvořena",
+  "note.creator.error": "Chyba při ukládání poznámky",
+  "note.creator.label.note": "Poznámka",
+  "note.creator.new": "Nová poznámka",
+  "note.creator.save": "Uložit",
+  "note.detail.edit": "Upravit",
+  "note.editor.error": "Chyba při aktualizaci poznámky",
+  "note.editor.header": "Poznámka #{noteId}",
+  "note.editor.label.note": "Poznámka",
+  "note.editor.save": "Uložit",
+  "note.editor.updated": "Poznámka aktualizována",
+  "note.list.delete": "Smazat",
+  "note.list.delete.error": "Poznámku #{nodeId} nelze smazat",
+  "note.list.edit": "Upravit",
+  "note.list.note": "Poznámka"
+}
